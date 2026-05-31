@@ -1,27 +1,17 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Blixzzzy",
+        "link": "https://www.youtube.com/@Blixzzzy"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
+        "name": "Liam",
+        "link": "https://www.twitch.tv/liamyesok"
+    }, 
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Monsoon",
+        "link": "https://www.youtube.com/@monsoonfv/videos"
     }
 ]

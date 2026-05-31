@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
+    "id": 74770337,
+    "name": "Acheron Easy",
+    "author": "N3xtery",
+    "creators": ["N3xtery"],
     "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "verification": "https://www.youtube.com/watch?v=OfmMAZkHAEo",
+    "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Liam",
+            "link": "https://www.youtube.com/watch?v=OfmMAZkHAEo",
             "percent": 100,
             "hz": 360
         }
